@@ -1,0 +1,11 @@
+Introdução a Sistemas Embarcados
+
+Sistemas embarcados são sistemas de computação dedicados a realizar uma ou poucas funções específicas, geralmente com requisitos restritos de hardware e software. Estão presentes em uma grande variedade de dispositivos, como roteadores, equipamentos médicos, eletrodomésticos, veículos e sistemas industriais.
+
+Características principais:
+- São projetados para desempenhar uma função específica.
+- Utilizam processadores com arquiteturas otimizadas para consumo de energia, custo e tamanho.
+- Muitas vezes operam em tempo real (real-time systems).
+- Podem utilizar sistemas operacionais embarcados como FreeRTOS, VxWorks ou versões reduzidas do Linux.
+
+Esses sistemas fazem parte essencial do cotidiano moderno, embora muitas vezes passem despercebidos.

@@ -1,0 +1,13 @@
+Arquitetura CPU vs GPU
+
+A CPU (Central Processing Unit) é um processador generalista, otimizado para lidar com poucas threads complexas, com foco em desempenho sequencial. Já a GPU (Graphics Processing Unit) é especializada em processamentos paralelos massivos, com milhares de núcleos menores otimizados para tarefas repetitivas.
+
+Diferenças principais:
+- CPU: Poucos núcleos, mais complexos, com cache grande e foco em multitarefa geral.
+- GPU: Muitos núcleos menores, operando em paralelo, ideal para processamento gráfico e cálculos científicos.
+
+Uso:
+- CPU: Execução do sistema operacional, lógica de controle, tarefas gerais.
+- GPU: Treinamento de modelos de machine learning, rendering gráfico, simulações físicas, mineração.
+
+Combinar ambos permite alto desempenho em aplicações complexas (computação heterogênea).

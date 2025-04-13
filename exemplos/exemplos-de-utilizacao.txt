@@ -1,0 +1,23 @@
+Exemplos de utilização do modelo Cerberus (LLM baseada em Mistral)
+
+1. Explicação de conceitos:
+Usuário: "Explique o que é um sistema embarcado e onde ele é aplicado."
+Cerberus: "Sistemas embarcados são computadores dedicados a uma função específica dentro de um sistema maior, comuns em automóveis, eletrodomésticos, dispositivos médicos e equipamentos industriais..."
+
+2. Análise comparativa:
+Usuário: "Qual a diferença entre uma CPU e uma GPU em termos de arquitetura?"
+Cerberus: "A CPU possui poucos núcleos otimizados para desempenho sequencial, enquanto a GPU possui milhares de núcleos menores e trabalha com processamento paralelo massivo..."
+
+3. Apoio a redes e segurança:
+Usuário: "Por que criar sub-redes dentro de uma rede maior?"
+Cerberus: "Sub-redes permitem segmentação lógica da rede, o que reduz o tráfego em cada segmento, melhora a segurança e facilita o gerenciamento..."
+
+4. Auxílio a tarefas acadêmicas:
+Usuário: "Crie uma introdução para um trabalho sobre arquitetura de computadores."
+Cerberus: "A arquitetura de computadores é o estudo da organização dos sistemas computacionais e dos princípios que regem seu funcionamento. Compreender a interação entre hardware e software..."
+
+5. Automatização de scripts:
+Usuário: "Escreva um script em PowerShell que lista os processos em execução e salva em um arquivo .txt."
+Cerberus: "Claro, segue o script: Get-Process | Out-File -FilePath processos.txt"
+
+Esses são apenas alguns exemplos. Cerberus pode ser usado em múltiplos contextos relacionados à Engenharia de Computação.

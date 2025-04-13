@@ -1,0 +1,14 @@
+Rede vs Sub-rede
+
+Uma rede é um conjunto de dispositivos interconectados que compartilham recursos, como arquivos e impressoras. Já uma sub-rede (subnet) é uma divisão lógica dessa rede maior, usada para segmentar tráfego e melhorar o gerenciamento e a segurança.
+
+Exemplo:
+- Rede: 192.168.0.0/16
+- Sub-redes: 192.168.1.0/24, 192.168.2.0/24...
+
+Vantagens da sub-rede:
+- Reduz o tráfego em cada segmento
+- Melhora a segurança isolando dispositivos
+- Facilita a administração de grandes redes
+
+Sub-redes são definidas usando máscaras de sub-rede (subnet mask), como /24, /25, etc.
